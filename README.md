@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/a5902bf0-3eec-4463-ab69-d6c1a03a6c38)
+
+
 JavaScript 30 Projects in 30 Days - HTML, CSS & JavaScript
 Welcome to the JavaScript 30 Projects in 30 Days repository! This repository contains 30 unique web development projects created using HTML, CSS, and JavaScript. Each project is designed to help you learn and practice essential skills in web development.
 
